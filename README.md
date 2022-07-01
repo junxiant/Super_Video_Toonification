@@ -1,2 +1,2 @@
 # Video_Toonification
-Combining Toonify and First Order Motion Model
+Combining Toonify and Super Resolution and First Order Motion Model
